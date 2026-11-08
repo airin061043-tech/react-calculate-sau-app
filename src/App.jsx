@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router";
-import Home from "./pages/Home.jsx";
-import Bmi from "./pages/bmi.jsx";
-import Bmr from "./pages/BMR.jsx";
-import Car from "./pages/Car.jsx";
+import Home from "./pages/Home";
+import Bmi from "./pages/bmi";
+import Bmr from "./pages/BMR";
+import Car from "./pages/Car";
 
 export default function App() {
   return (
