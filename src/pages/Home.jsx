@@ -3,7 +3,7 @@ import CardMenu from '../components/CardMenu'
 import bmi from './../assets/bmi.png'
 import bmr from './../assets/bmr.png'
 import car from './../assets/car.png'
-import Footer from './../components/footer'
+import Footer from './../components/Footer'
 import {Link} from "react-router"
 
 
