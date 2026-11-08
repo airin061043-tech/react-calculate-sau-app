@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router";
 import Home from "./pages/Home";
 import Bmi from "./pages/bmi";
-import Bmr from "./pages/BMR";
+import Bmr from "./pages/Bmr";
 import Car from "./pages/Car";
 
 export default function App() {
