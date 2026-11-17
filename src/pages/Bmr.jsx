@@ -24,7 +24,7 @@ export default function Bmr() {
         <div className="w-full">
           <form className="flex flex-col">
             <label className="font-kanit font-bold">
-              ป้อนน้ำหนัก (กิโลกรม)
+              ป้อนน้ำหนัก (กิโลกรรม)
             </label>
             <input
               type="number"
